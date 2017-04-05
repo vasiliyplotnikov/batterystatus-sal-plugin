@@ -1,0 +1,7 @@
+[Core]
+Name = BatteryStatus
+Module = batterystatus
+
+[Documentation]
+Author = Vasiliy Plotnikov
+Version = 0.1
